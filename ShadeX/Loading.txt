@@ -1,0 +1,5 @@
+Start
+Windows initialized in 0.045 sec 
+Input initialized in 0.105 sec
+Graphics initialized in 1.313 sec
+Done

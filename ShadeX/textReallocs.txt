@@ -1,0 +1,27 @@
+ --- Realloc #0 --- 10.00 --- Was: 24 --- Became: 30
+ --- Realloc #0 --- 10.00 --- Was: 24 --- Became: 30
+ --- Realloc #1 --- 100.01 --- Was: 30 --- Became: 36
+ --- Realloc #0 --- FPS: 0 CPU: 0 --- Was: 36 --- Became: 60
+ --- Realloc #1 --- FPS: 57 CPU: 0 --- Was: 60 --- Became: 66
+ --- Realloc #0 --- FPS: 0 CPU: 0 --- Was: 36 --- Became: 60
+ --- Realloc #1 --- FPS: 56 CPU: 0 --- Was: 60 --- Became: 66
+ --- Realloc #2 --- FPS: 60 CPU: 11 --- Was: 66 --- Became: 72
+ --- Realloc #0 --- FPS: 0 CPU: 0 --- Was: 36 --- Became: 60
+ --- Realloc #1 --- FPS: 56 CPU: 0 --- Was: 60 --- Became: 66
+ --- Realloc #0 --- FPS: 0 CPU: 0% --- Was: 36 --- Became: 66
+ --- Realloc #0 --- FPS: 0 CPU: 0% --- Was: 36 --- Became: 66
+ --- Realloc #1 --- FPS: 56 CPU: 0% --- Was: 66 --- Became: 72
+ --- Realloc #2 --- FPS: 60 CPU: 11% --- Was: 72 --- Became: 78
+ --- Realloc #0 --- FPS: 0 CPU: 0% --- Was: 36 --- Became: 66
+ --- Realloc #1 --- FPS: 54 CPU: 0% --- Was: 66 --- Became: 72
+ --- Realloc #2 --- FPS: 60 CPU: 12% --- Was: 72 --- Became: 78
+ --- Realloc #0 --- FPS: 0 CPU: 0% --- Was: 36 --- Became: 66
+ --- Realloc #1 --- FPS: 55 CPU: 0% --- Was: 66 --- Became: 72
+ --- Realloc #0 --- FPS: 0 CPU: 0% --- Was: 36 --- Became: 66
+ --- Realloc #1 --- FPS: 55 CPU: 0% --- Was: 66 --- Became: 72
+ --- Realloc #0 --- FPS: 0 CPU: 0% --- Was: 36 --- Became: 66
+ --- Realloc #1 --- FPS: 57 CPU: 0% --- Was: 66 --- Became: 72
+ --- Realloc #0 --- FPS: 0 CPU: 0% --- Was: 36 --- Became: 66
+ --- Realloc #1 --- FPS: 53 CPU: 0% --- Was: 66 --- Became: 72
+ --- Realloc #0 --- FPS: 0 CPU: 0% --- Was: 36 --- Became: 66
+ --- Realloc #1 --- FPS: 55 CPU: 0% --- Was: 66 --- Became: 72
